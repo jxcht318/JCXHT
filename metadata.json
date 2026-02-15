@@ -1,0 +1,7 @@
+{
+  "name": "大溪聚賢慈惠宮2026",
+  "description": "大溪聚賢慈惠宮官方網頁，提供最新的堂務消息、關懷活動、慶典文藝、線上點燈與祈福服務，支援 LINE Pay 線上支付。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
